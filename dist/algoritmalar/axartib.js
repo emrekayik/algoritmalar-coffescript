@@ -8,7 +8,7 @@
       return console.log("Kök yoktur");
     } else {
       kok = parseFloat(-b / a).toFixed(2);
-      return console.log(kok);
+      return console.log(`Kök: ${kok}`);
     }
   };
 

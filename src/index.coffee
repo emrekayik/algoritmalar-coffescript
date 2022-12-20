@@ -13,3 +13,7 @@ asal.asal(10)
 # A x + B = 0 denklemi
 axartib = require './algoritmalar/axartib'
 axartib.axartib(5, 20)
+
+# A x² + B x + C = 0 denklemi
+ikinciderece = require './algoritmalar/ikinciderece'
+ikinciderece.ikinciderece(3, 10, 5)
