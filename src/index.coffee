@@ -9,3 +9,7 @@ tambolen.tambolen(10)
 # Asal sayı
 asal = require './algoritmalar/asal'
 asal.asal(10)
+
+# A x + B = 0 denklemi
+axartib = require './algoritmalar/axartib'
+axartib.axartib(5, 20)
