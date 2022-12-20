@@ -6,6 +6,7 @@
 4. "ax+b = 0" formatındaki denklemin kökünü hesaplama
 5. İkinci dereceden denklem kökü hesaplama
 6. Hipotenüs hesaplama
+7. Pisagor Üçlüleri
 
 - npm i
 - npm run build
