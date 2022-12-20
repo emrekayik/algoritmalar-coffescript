@@ -4,9 +4,8 @@
   "description": "coffeescript ile yazdığım algoritmalar serisi",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "build": "coffee --compile --output dist/ src/",
-    "start": "node dist/index"
+    "test": "node dist/index"
   },
   "repository": {
     "type": "git",
