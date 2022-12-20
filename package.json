@@ -1,0 +1,24 @@
+{
+  "name": "algoritmalar-coffescript",
+  "version": "0.0.1",
+  "description": "coffeescript ile yazdığım algoritmalar serisi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "coffee --compile --output dist/ src/",
+    "start": "node dist/index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emrekayik/algoritmalar-coffescript.git"
+  },
+  "author": "Emre Kayık <emrekayik1905@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emrekayik/algoritmalar-coffescript/issues"
+  },
+  "homepage": "https://github.com/emrekayik/algoritmalar-coffescript#readme",
+  "devDependencies": {
+    "coffeescript": "^2.7.0"
+  }
+}
