@@ -17,3 +17,7 @@ axartib.axartib(5, 20)
 # A x² + B x + C = 0 denklemi
 ikinciderece = require './algoritmalar/ikinciderece'
 ikinciderece.ikinciderece(3, 10, 5)
+
+# Hipotenüs hesaplama
+hipotenus = require './algoritmalar/hipotenus'
+hipotenus.hipotenus(3, 4)
