@@ -4,6 +4,7 @@
 2. Sayının tam bölenlerini hesaplama
 3. Asal sayı sorgulama
 4. "ax+b = 0" formatındaki denklemin kökünü hesaplama
+5. İkinci dereceden denklem kökü hesaplama
 
 - npm i
 - npm run build

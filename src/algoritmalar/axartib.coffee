@@ -5,4 +5,4 @@ exports.axartib = (a, b) ->
         console.log "Kök yoktur"
     else
         kok = parseFloat(-b / a).toFixed(2)
-        console.log kok
+        console.log "Kök: #{kok}"
