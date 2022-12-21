@@ -7,6 +7,8 @@
 5. İkinci dereceden denklem kökü hesaplama
 6. Hipotenüs hesaplama
 7. Pisagor Üçlüleri
+8. Sayının kareler toplamı olup olmadığını sorgulama
+
 
 - npm i
 - npm run build

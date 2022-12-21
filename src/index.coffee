@@ -32,3 +32,8 @@ hipotenus.hipotenus(3, 4)
 console.log "Pisagor üçlülerini yazdırma"
 pisagorucluleri = require './algoritmalar/pisagorucluleri'
 pisagorucluleri.pisagorucluleri()
+
+# Sayının kareler toplamı olup olmadığını sorgulama
+console.log "Sayının kareler toplamı olup olmadığını sorgulama"
+karelertoplami = require './algoritmalar/karelertoplami'
+karelertoplami.karelertoplami(50)
