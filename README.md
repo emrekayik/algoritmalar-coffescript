@@ -10,6 +10,9 @@
 8. Sayının kareler toplamı olup olmadığını sorgulama
 
 
-- npm i
-- npm run build
-- npm start
+```bash
+npm i
+npm run build
+npm start
+```
+
